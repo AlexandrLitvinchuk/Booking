@@ -1,0 +1,18 @@
+es (10 sloc)  93 Bytes
+  
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# IDEA stuff
+.idea
+*.iml
+
+# Maven dirs
+*target
+
+#exclud allure
+*.allure
